@@ -27,4 +27,4 @@ logs/
 backups/
 playwright-report/
 test-results/
-data/
+/data/
